@@ -13,7 +13,6 @@
 
 ## UML Диаграммы
 1. **Class Diagram** (Диаграмма классов) — отображает структуру системы, наследование (Employee -> ResearchAssociate -> Lecturer) и связи (композиция, агрегация).
-До
 ![Class Diagram](LabImages/Class-diagram-before-compilation.png)
 ![Class Diagram](LabImages/Class-diagram-after-compilation.png)
 2. **Use Case Diagram** (Диаграмма прецедентов) — показывает роли (Dean, Lecturer, Research Associate, Admin) и их цели.
