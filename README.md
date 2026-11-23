@@ -20,6 +20,7 @@
 3. **Activity Diagram** (Диаграмма активностей) — алгоритм назначения курса с использованием дорожек (Swimlanes).
 ![Activity Diagram](LabImages/Activity-diagram.png)
 4. **Sequence Diagram** (Диаграмма последовательностей) — сценарий вызова метода `assignCourse` с созданием объекта Course.
+
 ![Sequence Diagram](LabImages/Sequence-diagram.png)
 
 ## Как запустить
